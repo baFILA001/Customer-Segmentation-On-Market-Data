@@ -45,7 +45,7 @@ To use this script, follow these steps:
 5. **Principal Component Analysis (PCA)**: Dimensionality reduction to aid in clustering.
 6. **KMeans Clustering**: Using KMeans algorithm for clustering and determining optimal clusters.
 7. **Visualizing Clusters**: Using the elbow method to select the optimal number of clusters and visualizing the results.
-8. **Creating README Content**: Generating the README file content to explain the script and its purpose.
+
 
 ## Results
 The script provides insights into customer segmentation using KMeans clustering and visualization of the clustered data. The results help in understanding distinct customer groups within the market data.
