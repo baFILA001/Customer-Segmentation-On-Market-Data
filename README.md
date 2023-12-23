@@ -1,6 +1,6 @@
 # Market Data Customer Segmentation
 
-This Python script focuses on customer segmentation using market data. The goal is to group customers based on various attributes and behavior patterns to better understand and target different market segments.
+This Project focuses on customer segmentation using market data. The goal is to group customers based on various attributes and behavior patterns to better understand and target different market segments.
 
 ## Table of Contents
 - [Introduction](#introduction)
